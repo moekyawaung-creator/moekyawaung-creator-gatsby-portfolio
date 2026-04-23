@@ -1,0 +1,7 @@
+gatsby-portfolio/
+├─ src/
+│  ├─ pages/
+│  │  └─ index.js
+│  └─ assets/
+├─ gatsby-config.js
+└─ package.json
